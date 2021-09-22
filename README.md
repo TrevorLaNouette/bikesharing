@@ -13,7 +13,7 @@ For this analysis I was asked to use Pandas to change the "tripduration" column 
 
 ## Results:
 
-[link to dashboard](https://public.tableau.com/views/Citibike_16322713070360/CitibikeAnalysis?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+[link to dashboard](https://public.tableau.com/views/Citibike_16322713070360/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to Citi Bike Dashboard")
 
 ## Summary:
 
